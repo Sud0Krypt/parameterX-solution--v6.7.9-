@@ -2,7 +2,7 @@
 
 Telegram: [@sudodaemonn](https://t.me/sudodaemonn)
 
-Telegram Channel: https://t.me/+qP9G-_ii_XA1MGIx
+Telegram Channel: [Join Here](https://t.me/+qP9G-_ii_XA1MGIx)
 
 # ⚠️ NOTE:
 
@@ -16,4 +16,4 @@ I already posted my newer PerimeterX Solver for PX version 8.9.6. and this is th
 
 For the more advanced people yes the code isn't great and if you wanted their is still much to improve. their are few hardcoded values in the fingerprint that are dynamic I just didn't want to waste time reversing those keys since I was already generating valid cookies. Feel free to make a pull request if you add any of these features.
 
-LIKE AND STAR THIS REPO FOR MORE REVERSES
+**LIKE AND STAR THIS REPO** - FOR MORE REVERSES
