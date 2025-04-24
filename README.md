@@ -1,9 +1,8 @@
 # 🤖 PerimeterX Solver (v6.7.9) 🤖
 
-Telegram: [@go0go0fo0go0](https://t.me/go0go0fo0go0)
+**Tele Contact:** [@sudodaemonnn](https://t.me/sudodaemonnn)
 
-Telegram Channel: [Join Here](https://t.me/+qP9G-_ii_XA1MGIx)
-
+**Tele Channel:** [Join Here](https://t.me/+qP9G-_ii_XA1MGIx)
 # ⚠️ NOTE:
 
 For inquiries regarding the purchase of newer or older versions of PX, please reach out via Telegram. Contact details are provided above.
